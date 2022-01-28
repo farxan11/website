@@ -1,0 +1,94 @@
+* {
+   box-sizing: border-box;
+   padding:2px;
+}
+
+body {
+   
+    background-color:orangered;
+}
+
+#navbar {
+    display:flex;
+    justify-content:space-around;
+    background-color: palegoldenrod;
+}
+#navbar a {
+    color:orange;
+    font-style:arial;
+
+}
+
+
+h1 {
+    display:flex;
+    justify-content: center;
+    color:rgb(53, 209, 13);
+    font-size:40px;
+    background-color: palegreen;
+}
+
+.welcome{
+    text-align: center;
+    background-color: green;
+    display:flex;
+    justify-content:center;
+
+}
+
+p {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.image {
+    display:flex;
+    justify-content:space-between;
+    width: 70%;
+    margin-left: 18%;
+
+}
+p{
+    font-display:;
+    text-justify: ;
+}
+.text{
+    font-size: 20px; 
+    text-align: center;
+    background-color: powderblue;
+}
+.hm{
+    font-size: 25px;
+    text-overflow: ellipsis;
+
+}
+.no{
+    font-size: 20px;
+    : ;
+}
+.y{
+    font-size: 30px;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+h2{
+    text-align: center;
+}
+.b{
+    font-size: 20px;
+    background-color: saddlebrown;
+}
+.g{
+    font-size: 20px;
+    text-underline-position: below;
+
+}
+.call{
+    font-size: 20px;
+}
+.na{
+    font-size: 25px;
+    background-color: seagreen;
+}.w{
+    font-size: 20px;
+}
