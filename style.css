@@ -92,3 +92,35 @@ h2{
 }.w{
     font-size: 20px;
 }
+
+.o{
+    font-size: 20px;
+    background-color: crimson;
+    -o-animation-delay: inherit;
+}
+.h{
+    font-stretch: ;
+    font-size: 24px;
+    color: lavender;
+}
+
+.go{
+    font-size: 20px;
+    color: blue;
+}
+.times{
+    text-align-last: right;
+    display: inline-flexbox;
+    justify-content: center;
+}
+.health{
+    font-size: 24px;
+    color: ;
+}
+.days{
+    font-size: 20px;
+}
+.five{
+    font-size: 20px;
+    color: blue;
+}
